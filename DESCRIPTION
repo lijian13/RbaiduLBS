@@ -1,0 +1,13 @@
+Package: RbaiduLBS
+License: GPL-3
+Title: An interface to Baidu LBS API
+Type: Package
+LazyLoad: yes
+Author: Jian Li
+Maintainer: Jian Li <rweibo@sina.com>
+Description: This package provides an interface to Baidu LBS API
+Version: 0.0-3
+Date: 2015-07-22
+Depends: R (>= 2.12.0), methods, utils, tools, RCurl, rjson, png
+Imports: methods
+
